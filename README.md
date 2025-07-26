@@ -30,7 +30,7 @@ Enter the first number:
 > 5
 Enter the second number:
 > 10
-The sum is: 50
+The product is: 50
 ```
 ## Project Structure
 ```text
